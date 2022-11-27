@@ -1,5 +1,5 @@
 # Home
-Vous trouverez ici tous les outils que j'utilise au quotidient
+Vous trouverez ici tous les outils que j'utilise au quotidien
 
 ## Table des matières
 - [Linux](#linux)
