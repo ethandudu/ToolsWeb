@@ -17,3 +17,4 @@ Vous trouverez ici tous les outils que j'utilise au quotidien
 ## Autres
 - [DevToys](https://devtoys.app/) : Outils pour développeurs (App Windows 10/11)
 - [Powertoys](https://github.com/microsoft/PowerToys) : Outils système Windows pour maximiser la productivité
+- [Pexels](https://www.pexels.com/fr-fr/) : Banque d'images et vidéos libres de droit
